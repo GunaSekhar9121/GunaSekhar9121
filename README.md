@@ -1,6 +1,18 @@
 # 💫 About Me:
-Hi, I'm Guna Sekhar Siddabathuni — a passionate and driven data professional with a knack for building intelligent systems that turn data into actionable insights.<br><br>🎓 I'm currently pursuing my Master’s in Engineering Data Science at the University of Houston, where I also serve as an Instructional Assistant & Research Project Lead.<br><br>🧠 I have hands-on experience in:<br><br>🤖 AI & Machine Learning: Built a financial GenAI chatbot using GPT-4, Langchain, and the SEC EDGAR API<br><br>🏗️ Data Engineering: Migrated data workflows from Teradata to Azure, using ADF, Databricks, and Synapse<br><br>📊 Business Analytics: Developed 40+ dashboards (Power BI, Tableau) and optimized reporting for enterprise clients like Microsoft and TIAA<br><br>👨‍🏫 I mentor students on Agile-based real-time analytics projects and teach courses like IT Project Management and Business Consulting, guiding 10+ project teams.<br><br>🌱 I’m always exploring innovations at the intersection of AI, cloud infrastructure, and data-driven strategy.<br><br>📫 Let’s connect!<br><br><br>📧 sgunasekhar9121@gmail.com<br>🌐 Portfolio
 
+🔭 I'm currently leading a student research project at the **University of Houston** focused on building a **financial GenAI chatbot** using **OpenAI GPT-4**, **Langchain**, and the **SEC EDGAR API**. This tool is designed to extract, interpret, and summarize complex company filings, supporting real-time financial health assessments and predictive risk modeling.
+
+👨‍🏫 Alongside my research, I serve as an **Instructional Assistant**, mentoring students in **IT Project Management** and **Business Consulting** courses. I guide over 10 student teams in real-world projects involving **Agile methodology**, **analytics**, and **GenAI**.
+
+👯 I’m always open to collaborating on impactful projects in the fields of **finance**, **healthcare**, and **cloud data engineering**. I enjoy building intelligent solutions that improve operational efficiency, data-driven strategy, and business growth.
+
+🤝 I'm especially interested in partnering with teams that specialize in **LLM integration**, **cloud-based pipelines**, or **real-time analytics**—whether for enterprise reporting, intelligent automation, or AI-driven consulting solutions.
+
+🌱 Currently, I’m diving deeper into **financial analytics**, **cloud infrastructure** (**Azure & AWS**), and the intersection of **GenAI and data products**. I’m also exploring tools that enable scalable **LLM deployment** and **ethical AI applications**.
+
+💬 Ask me about building **AI-powered chatbots**, **cloud-native ETL workflows**, or anything related to **business analytics**, **data science**, and **applied machine learning**—I love sharing knowledge and learning from others in the field.
+
+⚡ Fun fact – I once led a complete data pipeline migration from **Teradata to Azure** for a Fortune 500 client, improving reporting speed by 30% and unlocking real-time decision-making capabilities across the org.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guna-sekhar-siddabathuni-397609218/) 
